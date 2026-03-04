@@ -94,10 +94,12 @@ Mobile App Usage
 
 Key Insight:
 
-Engagement Level	Churn Rate
-Low Engagement	39.9%
-Medium Engagement	24.3%
-High Engagement	20.5%
+| Engagement Level  | Churn Rate |
+| ----------------- | ---------- |
+| Low Engagement    | 39.9%      |
+| Medium Engagement | 24.3%      |
+| High Engagement   | 20.5%      |
+
 
 Users with low engagement show significantly higher churn.
 
