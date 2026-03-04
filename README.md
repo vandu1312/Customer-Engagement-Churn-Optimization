@@ -210,8 +210,7 @@ Stronger long-term subscription stability
 /notebooks
     engagement_ab_test.ipynb
 
-/dashboard
-    retention_dashboard.pbix (optional)
+
 11. Skills Demonstrated
 
 SQL querying and aggregation
